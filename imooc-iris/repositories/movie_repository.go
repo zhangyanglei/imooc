@@ -1,6 +1,6 @@
 package repositories
 
-import "imooc-iris/datamodels"
+import "imooc/imooc-iris/datamodels"
 
 type MovieRepository interface {
 	GetMovieName() string

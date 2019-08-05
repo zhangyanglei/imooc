@@ -2,7 +2,7 @@ package services
 
 import (
 	"fmt"
-	"imooc-iris/repositories"
+	"imooc/imooc-iris/repositories"
 )
 
 type MovieService interface {

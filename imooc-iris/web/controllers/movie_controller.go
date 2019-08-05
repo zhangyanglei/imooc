@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/kataras/iris/mvc"
-	"imooc-iris/repositories"
-	"imooc-iris/services"
+	"imooc/imooc-iris/repositories"
+	"imooc/imooc-iris/services"
 )
 
 type MovieController struct {

@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/mvc"
-	"imooc-iris/web/controllers"
+	"imooc/imooc-iris/web/controllers"
 )
 
 func main() {
